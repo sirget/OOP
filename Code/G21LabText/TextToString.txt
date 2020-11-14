@@ -1,0 +1,42 @@
+<Person> 
+Name: namePer
+Address: addressPer
+PhoneNumber: 0111111111
+Email: Person@hotmail.com
+
+<Student> 
+Name: nameStu
+Address: addressStu
+PhoneNumber: 0111111111
+Email: Student@hotmail.com
+Status: freshman
+
+<Employee> 
+Name: nameEmp
+Address: addressEmp
+PhoneNumber: 0111111111
+Email: Employee@hotmail.com
+Office: officeEmp
+Salary: $800000.0
+Date Hired: Fri May 10 00:04:21 ICT 2019
+
+<Faculty> 
+Name: nameFac
+Address: addressFac
+PhoneNumber: 0111111111
+Email: Faculty@hotmail.com
+Office: officehoursFac
+Salary: $40000.0
+Date Hired: Fri May 10 00:04:21 ICT 2019
+office: officehoursFac
+rank: rankFac
+
+<Staff> 
+Name: nameStaff
+Address: addressStaff
+PhoneNumber: 0111111111
+Email: Staff@hotmail.com
+Office: officeStaff
+Salary: $300000.0
+Date Hired: Fri May 10 00:04:21 ICT 2019
+title: title
